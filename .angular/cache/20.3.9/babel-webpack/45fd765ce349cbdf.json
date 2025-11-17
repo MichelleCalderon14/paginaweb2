@@ -1,0 +1,1 @@
+{"ast":null,"code":"// src/environments/environment.ts\nexport const environment = {\n  production: false,\n  apiBase: '/api',\n  // 👈 en DEV usamos solo /api\n  useFakeAuth: true\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

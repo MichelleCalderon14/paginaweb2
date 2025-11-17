@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  apiBase: 'http://localhost:8080/api',\n  // ajusta si tu backend usa otro\n  useFakeAuth: true\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

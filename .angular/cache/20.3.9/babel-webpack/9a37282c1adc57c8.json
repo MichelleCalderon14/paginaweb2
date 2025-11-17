@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  apiBase: 'http://localhost:9090/api',\n  useFakeAuth: true\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
