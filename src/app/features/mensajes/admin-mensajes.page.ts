@@ -99,4 +99,8 @@ export class AdminMensajesPage implements OnInit {
     this.mensajesSrv.eliminar(m.id);
     this.cargar();
   }
+   marcarTodosLeidos() {
+    this.mensajesSrv.marcarTodosLeidos();
+    this.cargar();   // recargar lista después de actualizar
+  }
 }
